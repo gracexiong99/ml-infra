@@ -1,0 +1,16 @@
+Day 2 verification
+Timestamp: 2026-11-11T21:59:20-05:00
+Working directory: /Users/shangyixiong/Desktop/ml
+Execution: separate new Bash login shells; no inherited VIRTUAL_ENV, PYTHONHOME, or PYTHONPATH. Existing .venv is reused.
+
+$ uv sync --locked
+Resolved 1 package in 34ms
+Checked 1 package in 3ms
+
+Exit code: 0
+
+$ uv run --locked ml-infra-2026
+Hello from ml-infra-2026!
+
+Exit code: 0
+
